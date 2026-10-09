@@ -1,1 +1,8 @@
+# Compiled Java files
 *.class
+
+# Temporary VS Code runner files
+tempCodeRunnerFile.java
+
+# VS Code workspace settings
+.vscode/
